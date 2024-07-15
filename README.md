@@ -93,6 +93,13 @@ if __name__ == "__main__":
 - Inference Steps: Adjust the number of inference steps to control the quality and computation time of the image generation process. Higher values typically yield better quality but require more computation.  
 - Guidance Scale: Adjust the guidance scale to control the adherence of the generated image to the text prompt. Higher values usually make the image more closely match the description.
 
+## Ouput Images 
+![Screenshot 2024-07-14 234707](https://github.com/user-attachments/assets/428458af-5366-49d1-a559-c95017445ad0)
+
+![Screenshot 2024-07-14 232829](https://github.com/user-attachments/assets/f973a64f-85ef-4857-932d-819547801a81)
+
+
+
   ## Contributing
 Contributions to improve this project are welcome! If you'd like to contribute:
 
